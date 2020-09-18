@@ -6,6 +6,7 @@
   "author": "Takuma HANATANI <mail@potato4d.me>",
   "license": "MIT",
   "devDependencies": {
+    "@types/hast": "^2.3.1",
     "@types/jest": "^26.0.14",
     "@types/node": "^14.10.3",
     "hast": "^1.0.0",

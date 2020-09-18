@@ -1,4 +1,2 @@
-const a = 1
-
-export default a
-module.exports = a
+const TMP: any = null
+export default TMP
