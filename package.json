@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
+    "format": "yarn prettier './src/**/*.ts'",
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
@@ -16,6 +17,7 @@
     "@types/node": "^14.10.3",
     "hast": "^1.0.0",
     "jest": "^26.4.2",
+    "prettier": "^2.1.2",
     "rehype": "^11.0.0",
     "rehype-stringify": "^8.0.0",
     "remark-parse": "^8.0.3",
