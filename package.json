@@ -1,5 +1,5 @@
 {
-  "name": "rehype-plugin-image-lazy-loading",
+  "name": "rehype-plugin-image-native-lazy-loading",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "ssh://git@github.com/potato4d/rehype-plugin-image-lazy-loading.git",
