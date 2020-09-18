@@ -1,9 +1,9 @@
-import { Transformer } from 'unified'
+import { Processor, Transformer } from 'unified'
 import { Node } from 'unist'
 import visit from 'unist-util-visit'
 import hast from 'hast'
 
-function lazyloadPlugin(): Transformer {
+function lazyloadPlugin(this: Processor): Transformer {
   function visitor(el: hast.Element) {
     if (el.tagName !== 'img') {
       return
