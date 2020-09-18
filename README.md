@@ -18,7 +18,7 @@ $ yarn add rehype-plugin-image-native-lazy-loading # or npm install
 
 ```javascript
 import fs from 'fs'
-import lazyLoadPlugin from '../'
+import lazyLoadPlugin from 'rehype-plugin-image-native-lazy-loading'
 import unified from 'unified'
 import markdown from 'remark-parse'
 import remark2rehype from 'remark-rehype'
@@ -53,7 +53,7 @@ async function run() {
 ```javascript
 
 import fs from 'fs'
-import lazyLoadPlugin from '../'
+import lazyLoadPlugin from 'rehype-plugin-image-native-lazy-loading'
 import unified from 'unified'
 import parse from 'rehype-parse'
 import slug from 'rehype-slug'
