@@ -1,6 +1,5 @@
 module.exports = {
   preset: require.resolve('conventional-changelog-conventionalcommits'),
-  dryRun: true,
   types: [
     { type: 'feat', section: 'Features' },
     { type: 'fix', section: 'Bug Fixes' },
