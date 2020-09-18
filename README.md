@@ -1,6 +1,6 @@
 # rehype-plugin-image-native-lazy-loading
 
-![build](https://github.com/potato4d/rehype-plugin-image-native-lazy-loading/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/potato4d/rehype-plugin-image-native-lazy-loading/branch/master/graph/badge.svg)](https://codecov.io/gh/potato4d/rehype-plugin-image-native-lazy-loading) ![Version](https://img.shields.io/npm/v/vue.svg?sanitize=true)
+![build](https://github.com/potato4d/rehype-plugin-image-native-lazy-loading/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/potato4d/rehype-plugin-image-native-lazy-loading/branch/master/graph/badge.svg)](https://codecov.io/gh/potato4d/rehype-plugin-image-native-lazy-loading) ![Version](https://img.shields.io/npm/v/rehype-plugin-image-native-lazy-loading.svg?sanitize=true)
 
 Native lazy loading plugin for Rehype.
 
