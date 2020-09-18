@@ -11,6 +11,13 @@
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
+  "keywords": [
+    "remark",
+    "rehype",
+    "rehype-plugin",
+    "lazyload",
+    "lazy-load"
+  ],
   "devDependencies": {
     "@types/hast": "^2.3.1",
     "@types/jest": "^26.0.14",
