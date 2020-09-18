@@ -89,14 +89,12 @@ async function run() {
 in your nuxt.config.js
 
 ```javascript
-import LazyloadPlugin from 'rehype-plugin-image-native-lazy-loading'
-
 export default {
   // ...
   content: {
     markdown: {
       rehypePlugins: [
-        LazyloadPlugin
+        'rehype-plugin-image-native-lazy-loading'
       ]
     }
   },
