@@ -1,6 +1,6 @@
 {
   "name": "rehype-plugin-image-native-lazy-loading",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "repository": "ssh://git@github.com/potato4d/rehype-plugin-image-lazy-loading.git",
   "author": "Takuma HANATANI <mail@potato4d.me>",
