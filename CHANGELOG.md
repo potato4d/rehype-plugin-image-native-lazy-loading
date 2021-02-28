@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/potato4d/rehype-plugin-image-lazy-loading/compare/v1.1.0...v1.2.0) (2021-02-28)
+
+
+### Chores
+
+* Modernize build target ([f4fcd2d](https://github.com/potato4d/rehype-plugin-image-lazy-loading/commit/f4fcd2df87fcbfdfaded2b184c973e55bb2e8c97))
+
 ## [1.1.0](https://github.com/potato4d/rehype-plugin-image-lazy-loading/compare/v1.0.3...v1.1.0) (2020-09-20)
 
 
